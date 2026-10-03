@@ -1,0 +1,28 @@
+{
+ "red": {
+  "fixed acidity": 0.04619999974966049,
+  "volatile acidity": 0.13369999825954437,
+  "citric acid": 0.053700000047683716,
+  "residual sugar": 0.03799999877810478,
+  "chlorides": 0.052000001072883606,
+  "free sulfur dioxide": 0.0478999987244606,
+  "total sulfur dioxide": 0.09549999982118607,
+  "density": 0.05290000140666962,
+  "pH": 0.05079999938607216,
+  "sulphates": 0.19280000030994415,
+  "alcohol": 0.2354000061750412
+ },
+ "white": {
+  "fixed acidity": 0.03880000114440918,
+  "volatile acidity": 0.11860000342130661,
+  "citric acid": 0.0632999986410141,
+  "residual sugar": 0.10700000077486038,
+  "chlorides": 0.06589999794960022,
+  "free sulfur dioxide": 0.11949999630451202,
+  "total sulfur dioxide": 0.065700002014637,
+  "density": 0.11599999666213989,
+  "pH": 0.0723000019788742,
+  "sulphates": 0.04619999974966049,
+  "alcohol": 0.2321999967098236
+ }
+}
